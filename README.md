@@ -1,6 +1,6 @@
 ### Hi, I'm Serena 👋
 
-- ✨ Previous NASA SEES Aerospace Engineer Intern and SWE Intern at Ariel
+- ✨ Former NASA SEES Aerospace Engineer Intern and SWE Intern at Ariel
 - 🛠️ Experienced in maching learning, data analysis, and full-stack development
 - 📫 How to reach me: [serenahuang225@gmail.com]
 
