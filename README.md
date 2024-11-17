@@ -3,6 +3,7 @@
 - ✨ Former NASA SEES Aerospace Engineer Intern and SWE Intern at Ariel
 - 🛠️ Experienced in maching learning, data analysis, and full-stack development
 - 📫 How to reach me: [serenahuang225@gmail.com]
+- 🔗 View my website here: [https://serenahuang.vercel.app/]!
 
 <!--
 **serenahuang225/serenahuang225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
