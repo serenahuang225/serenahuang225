@@ -1,9 +1,14 @@
 ### Hi, I'm Serena 👋
 
-- ✨ Former NASA SEES Aerospace Engineer Intern and SWE Intern at Ariel
-- 🛠️ Experienced in maching learning, data analysis, and full-stack development
-- 📫 How to reach me: [serenahuang225@gmail.com]
-- 🔗 View my website here: [https://serenahuang.vercel.app/]!
+📚 Currently teaching Python through Stanford's Code in Place
+
+✨ Former NASA SEES Aerospace Research Intern and SWE Intern at Ariel
+
+🛠️ Experienced in maching learning, data analysis, and full-stack development
+
+💌 Reach out at serenahuang225@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/serenahuang225)!
+
+🔗 Learn more about me through my website [here](https://serenahuang.vercel.app/)
 
 <!--
 **serenahuang225/serenahuang225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
