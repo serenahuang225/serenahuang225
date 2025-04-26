@@ -6,11 +6,11 @@
 
 🛠️ Experienced in maching learning, data analysis, and full-stack development
 
-📄 View my resume [here](https://github.com/serenahuang225/serenahuang225/blob/main/Serena_Huang_Resume.pdf)
-
 💌 Reach out at serenahuang225@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/serenahuang225)!
 
 🔗 Learn more about me through my website [here](https://serenahuang.vercel.app/)
+
+📄 View my resume [here](https://github.com/serenahuang225/serenahuang225/blob/main/Serena_Huang_Resume.pdf)
 
 <!--
 **serenahuang225/serenahuang225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
