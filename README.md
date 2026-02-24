@@ -1,14 +1,14 @@
-### Hi, I'm Serena 👋
+## Hi, I'm Serena 👋
 
 I'm a student and engineer who likes to build useful, interesting things.
 
-**Experience**
+#### Experience:
 
 📚 Taught Python through Stanford’s Code in Place\
 🚀 Researched lunar materials as a NASA SEES intern\
 🛠️ Built ML models and data pipelines at Ariel
 
-**Connect**
+#### Connect:
 
 💌 serenahuang225@gmail.com  | 💼 [LinkedIn](https://www.linkedin.com/in/serenahuang225)\
 🔗 [Website](https://serenahuang.vercel.app) | 📄 [Resume](https://github.com/serenahuang225/serenahuang225/blob/main/Serena_Huang_Resume.pdf)
