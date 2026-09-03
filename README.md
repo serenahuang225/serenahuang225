@@ -1,11 +1,11 @@
 ## Hi, I'm Serena 👋
 
-I'm an incoming student at MIT and an engineer who likes to build useful, interesting things.
+I'm a student at MIT and an engineer who likes to build useful, interesting things.
 
 ### Experience:
 
-- 📈 Learning math, programing, and game theory at Jane Street AMP
-- 📚 Teaching Python through Stanford Code in Place
+- 📈 Learned math, programing, and game theory at Jane Street AMP
+- 📚 Taught Python through Stanford Code in Place
 - 🚀 Researched lunar materials as a NASA SEES intern
 - 🛠️ Built ML models and data pipelines at Ariel
 
